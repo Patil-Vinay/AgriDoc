@@ -6,22 +6,18 @@ For classification I have used jetson inference  and using pre trained model by 
 
 - Input Images: 
 
-![](https://github.com/Patil-Vinay/AgriDoc/blob/main/Part%201/input_image_1.jpg)
-
-![](https://github.com/Patil-Vinay/AgriDoc/blob/main/Part%201/input_image_2.jpeg)
+![](https://github.com/Patil-Vinay/AgriDoc/blob/main/Part%201/input_image_1.jpg) ![](https://github.com/Patil-Vinay/AgriDoc/blob/main/Part%201/input_image_2.jpeg)
 
 - Output Images: 
 
-![](https://github.com/Patil-Vinay/AgriDoc/blob/main/Part%201/output_image_1.jpg)
-
-![](https://github.com/Patil-Vinay/AgriDoc/blob/main/Part%201/output_image_2.jpg)
+![](https://github.com/Patil-Vinay/AgriDoc/blob/main/Part%201/output_image_1.jpg) ![](https://github.com/Patil-Vinay/AgriDoc/blob/main/Part%201/output_image_2.jpg)
 
 - Because the Nano is an embedded device, it is not nearly as powerful as a modern desktop or server built with a powerful graphics card. 
 - NVIDIA has a training interface called DIGITS that makes training networks much easier.
 - We use “transfer learning” to retrain an existing network. When we do this, we just tweak the model’s parameters to optimize it to our own training data.
 - To begin, we first need to set up a swap space on our SD card so that we have more RAM to play with.
 
-For testing purpose we also created our own dataset then trained our model and exported this saved model in Open Neural Network Exchange (ONNX) format. Here are few of the test images.       
+For testing purpose we also created our own dataset(containing two elements one is background and another is Plant A) then trained and saved the model in Open Neural Network Exchange (ONNX) format. Here are few of the images while testing this model.      
 
 Test Images:
 
