@@ -4,7 +4,7 @@ Autonomous agricultural robot with NVIDIA Jetson Nano at its core. This provided
 
 **Part1:**
 - To build an autonomous robot using Jetson Nano.
-- Carry out Real Time Object Detection using Jetson Nano.
+- Carry out Real Time Image Classification using Jetson Nano.
 - Partly run the robot on solar energy.
 
 **Part2:**
