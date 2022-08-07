@@ -17,8 +17,8 @@ Our aim was to buld a deep learning model that would detect and classify various
 
 ## Disease Detection Model Prediction Preview
 
-![]()
+![](https://github.com/Patil-Vinay/AgriDoc/blob/main/Part%202/Disease%20Detection%20in%20Tomato%20Plants/output_1.png)
 
-![]()
+![](https://github.com/Patil-Vinay/AgriDoc/blob/main/Part%202/Disease%20Detection%20in%20Tomato%20Plants/output_2.png)
 
-![]()
+![](https://github.com/Patil-Vinay/AgriDoc/blob/main/Part%202/Disease%20Detection%20in%20Tomato%20Plants/output_3.png)
