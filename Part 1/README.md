@@ -25,3 +25,4 @@ Test Images:
 
 ![](https://github.com/Patil-Vinay/AgriDoc/blob/main/Part%201/test_image_2.png)
 
+For Workflow and the detailed process go through the [Workflow.md](https://github.com/Patil-Vinay/AgriDoc/blob/main/Part%201/Workflow.md)
